@@ -1,7 +1,9 @@
 # Hands-on KI mit PyTorch: MNIST
 
-Ein interaktives Jupyter Notebook zum Erlernen der Grundlagen des maschinellen Lernens mit PyTorch am Beispiel des MNIST-Datensatzes.
-Hier kannst du das notebook in Binder öffnen: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FGH-schmitz/hands-on-ki-mnist/HEAD?urlpath=%2Fdoc%2Ftree%2FHands-on-KI-MNIST.ipynb)
+Ein interaktives Jupyter Notebook zum Erlernen der Grundlagen des maschinellen Lernens mit PyTorch am Beispiel des MNIST-Datensatzes.\
+Hier kannst du das notebook in Binder öffnen: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FGH-schmitz/hands-on-ki-mnist/HEAD?urlpath=%2Fdoc%2Ftree%2FHands-on-KI-MNIST.ipynb)\
+Hier kannst du das Notebook in Colab öffnen:  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+(https://colab.research.google.com/github/FGH-schmitz/hands-on-ki-mnist/blob/main/Hands-on-KI-MNIST.ipynb)
 
 ## Übersicht
 
@@ -60,4 +62,5 @@ Mit den richtigen Hyperparametern solltest du eine Accuracy von 85-95% auf den T
 ## Zeitaufwand
 
 Ca. 20 Minuten für die komplette Durchführung des Workshops.
+
 
